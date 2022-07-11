@@ -1,3 +1,3 @@
 # code for printf
-# *Michael Getu*
-# *Sebrina Abdulrezak*
+ *Michael Getu kebede *
+ *Sebrina Abdulrezak Teka*
